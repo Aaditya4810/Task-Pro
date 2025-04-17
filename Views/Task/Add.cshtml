@@ -1,0 +1,79 @@
+@using TaskManagement.Controllers
+@model t_Task
+
+@{
+    ViewData["Title"] = "Task";
+    Layout = "~/Views/Shared/_TaskLayout.cshtml";
+
+}
+
+
+<div class="container mt-4">
+    <div class="card">
+        <div class="card-body">
+            <form  asp-controller="Task" asp-action="Add" method="post">
+                <input type="hidden" id="taskid" asp-for="c_taskId">
+                <div class="form-group mb-3">
+                    <label asp-for="c_title" class="form-label">Task Title</label>
+                    <input asp-for="c_title" class="form-control" required />
+                    <span asp-validation-for="c_title" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="c_description" class="form-label">Description</label>
+                    <textarea asp-for="c_description" class="form-control" rows="4" required></textarea>
+                    <span asp-validation-for="c_description" class="text-danger"></span>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="form-group mb-3">
+                            <label asp-for="c_estimatedDays" class="form-label">Estimated Days</label>
+                            <input asp-for="c_estimatedDays" type="number" class="form-control" min="1" required />
+                            <span asp-validation-for="c_estimatedDays" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="form-group mb-3">
+                            <label asp-for="c_startDate" class="form-label">Start Date</label>
+                            <input asp-for="c_startDate" type="date" class="form-control" required />
+                            <span asp-validation-for="c_startDate" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="form-group mb-3">
+                            <label asp-for="c_endDate" class="form-label">End Date</label>
+                            <input asp-for="c_endDate" type="date" class="form-control" required />
+                            <span asp-validation-for="c_endDate" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="c_status" class="form-label">Status</label>
+                    <select asp-for="c_status" class="form-select" required>
+                        <option value="">Select Status</option>
+                        <option value="Active">Active</option>
+                        <option value="Pending">Pending</option>
+                        <option value="Completed">Completed</option>
+                        <option value="Cancelled">Cancelled</option>
+                    </select>
+                    <span asp-validation-for="c_status" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mt-4">
+                    <button type="submit" class="btn btn-primary">Save</button>
+                    
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

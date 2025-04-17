@@ -1,0 +1,14 @@
+@{
+    ViewData["Title"]="User Profile";
+    Layout = "~/Views/Shared/_TaskLayout.cshtml";
+}
+<h1 style="color: blue;">Employee,@ViewBag.EmpData.c_empName</h1>
+<img src="~/profile_images/@ViewBag.EmpData.c_profileImage" alt="img" style="height: 200px; width: 200px; border-radius: 50%;">
+
+@* <h4>@Context.Session.GetInt32("UserId")</h4> *@
+<h5>Welcome, @ViewBag.EmpData.c_empName</h5>
+<h5>Email : @ViewBag.EmpData.c_empEmail</h5>
+
+<a href="/Employee/UpdateProfile"><button class="btn-primary">Update Profile</button></a>
+
+

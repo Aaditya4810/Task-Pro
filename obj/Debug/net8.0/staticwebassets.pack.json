@@ -1,0 +1,481 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TaskManagement.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TaskManagement.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\038a909f-bc2b-4cde-b16b-299b53c9f1ff.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\038a909f-bc2b-4cde-b16b-299b53c9f1ff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\04045030-cae4-4e7f-8783-0a38b88e4223.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\04045030-cae4-4e7f-8783-0a38b88e4223.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\0b94fe34-de19-4190-8757-d391c6c98cd4.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\0b94fe34-de19-4190-8757-d391c6c98cd4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\0bd1bb95-494b-4688-bc39-72aeeaeda311.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\0bd1bb95-494b-4688-bc39-72aeeaeda311.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\188bc687-0d62-4930-9bbb-82617e8a891a.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\188bc687-0d62-4930-9bbb-82617e8a891a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\1dd6c8a8-2534-4ccc-b70e-deccccf46094.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\1dd6c8a8-2534-4ccc-b70e-deccccf46094.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\242bb9d4-5ff5-44ca-bd17-6014b184b32f.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\242bb9d4-5ff5-44ca-bd17-6014b184b32f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\263abd1c-65cd-4d1e-8e46-0a9390317579.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\263abd1c-65cd-4d1e-8e46-0a9390317579.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\26c7ae9d-f7bc-4491-8887-3b3291ecb7be.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\26c7ae9d-f7bc-4491-8887-3b3291ecb7be.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\35aa2ab5-f104-482e-b94e-5b1fa3533b68.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\35aa2ab5-f104-482e-b94e-5b1fa3533b68.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\37897d15-ff28-4fa1-879e-06c448ddd0fb.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\37897d15-ff28-4fa1-879e-06c448ddd0fb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\41bea101-05fa-4479-a4db-12b50bcd7bc3.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\41bea101-05fa-4479-a4db-12b50bcd7bc3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\4618d8e3-9b27-4d4d-bfe1-5fd1d65da599.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\4618d8e3-9b27-4d4d-bfe1-5fd1d65da599.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\463a4380-5737-4320-99c9-6d77f9cdad58.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\463a4380-5737-4320-99c9-6d77f9cdad58.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\48403891-5054-464b-ac03-2c36b72a6b4d.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\48403891-5054-464b-ac03-2c36b72a6b4d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\49d2d810-5a81-48e8-a68a-bd46082b45dd.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\49d2d810-5a81-48e8-a68a-bd46082b45dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\55afe27c-d6b6-4dbe-b510-4b5ea7e171ba.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\55afe27c-d6b6-4dbe-b510-4b5ea7e171ba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\5d29d4fa-f634-433d-9732-94a112d5e753.jpeg",
+      "PackagePath": "staticwebassets\\profile_images\\5d29d4fa-f634-433d-9732-94a112d5e753.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\60189423-f27f-4814-8094-3582a276bdd9.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\60189423-f27f-4814-8094-3582a276bdd9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\60e1dd69-7bfb-40e3-955f-301e70ed567e.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\60e1dd69-7bfb-40e3-955f-301e70ed567e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\64997ed6-f2c4-4d3f-850f-ab40efa64547.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\64997ed6-f2c4-4d3f-850f-ab40efa64547.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\65d31040-879c-40d9-802d-4438a4f9b07b.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\65d31040-879c-40d9-802d-4438a4f9b07b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\7062e023-14d8-45ba-ab4d-5c971f63a0e7.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\7062e023-14d8-45ba-ab4d-5c971f63a0e7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\76081392-b5ab-4f94-9b41-b04ddfe9c0c3.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\76081392-b5ab-4f94-9b41-b04ddfe9c0c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\7c8659cc-076b-49a0-a209-e56a29983281.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\7c8659cc-076b-49a0-a209-e56a29983281.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\83dde469-cfaf-4d22-a651-ccada120c814.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\83dde469-cfaf-4d22-a651-ccada120c814.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\88acf854-8e25-4dfd-ab83-33d006686b7e.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\88acf854-8e25-4dfd-ab83-33d006686b7e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\8c0f132b-1a00-4e5d-a932-0741898ced46.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\8c0f132b-1a00-4e5d-a932-0741898ced46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\8c2abd48-6167-4884-bab4-91751db84570.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\8c2abd48-6167-4884-bab4-91751db84570.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\8e7cf064-c42a-444e-8e2d-45923b2307d6.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\8e7cf064-c42a-444e-8e2d-45923b2307d6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\96331c80-e4a7-4c55-9e77-e78aec8511ba.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\96331c80-e4a7-4c55-9e77-e78aec8511ba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\98f31ea6-0ff1-4bca-93e6-c199bca631e1.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\98f31ea6-0ff1-4bca-93e6-c199bca631e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\9afa15e9-b7c8-42ed-86b3-3b41694d1c9b.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\9afa15e9-b7c8-42ed-86b3-3b41694d1c9b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\9bff647d-3dc9-4d2a-87bb-6c5ed1f45a8b.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\9bff647d-3dc9-4d2a-87bb-6c5ed1f45a8b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\9d1544e1-e428-4e8d-8798-b9d05f066923.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\9d1544e1-e428-4e8d-8798-b9d05f066923.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\a74ce4e6-f299-4d6a-a9bf-8cef60c242d8.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\a74ce4e6-f299-4d6a-a9bf-8cef60c242d8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\adi@123.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\adi@123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\b4ee866a-db1f-40ae-ba7a-73f86fc89b42.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\b4ee866a-db1f-40ae-ba7a-73f86fc89b42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\b91c8c1d-88f2-48e2-b559-63e0581ba3b2.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\b91c8c1d-88f2-48e2-b559-63e0581ba3b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\c23dbd4d-6638-4ee7-9d2f-3305ba9b3347.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\c23dbd4d-6638-4ee7-9d2f-3305ba9b3347.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\c8fd2859-bfcc-4694-a834-dccf804582d3.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\c8fd2859-bfcc-4694-a834-dccf804582d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\cd406aeb-45d2-4a93-b63a-cc5e10c9638a.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\cd406aeb-45d2-4a93-b63a-cc5e10c9638a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\d218c3e1-04bb-4c26-ba2a-359c5c033d17.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\d218c3e1-04bb-4c26-ba2a-359c5c033d17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\dad87dd0-4095-4cfd-b7d5-52d049b56688.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\dad87dd0-4095-4cfd-b7d5-52d049b56688.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\e4856e68-caf7-43af-b963-1b336144b70e.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\e4856e68-caf7-43af-b963-1b336144b70e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\ee98013a-5960-413f-8333-1121c8432cdf.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\ee98013a-5960-413f-8333-1121c8432cdf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\f48d40a1-6b84-4e3c-b1a0-4798b102e6ed.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\f48d40a1-6b84-4e3c-b1a0-4798b102e6ed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\f7ed2f3f-9630-4a84-aad9-22b9ba42206a.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\f7ed2f3f-9630-4a84-aad9-22b9ba42206a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\prince@123.jpeg",
+      "PackagePath": "staticwebassets\\profile_images\\prince@123.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\prince@123.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\prince@123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\prince@123updated.jpeg",
+      "PackagePath": "staticwebassets\\profile_images\\prince@123updated.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\prince@123updated.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\prince@123updated.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\ronik@123.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\ronik@123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitUploads\\TaskManagement\\wwwroot\\profile_images\\ronik@123updated.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\ronik@123updated.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TaskManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TaskManagement.props",
+      "PackagePath": "build\\TaskManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TaskManagement.props",
+      "PackagePath": "buildMultiTargeting\\TaskManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TaskManagement.props",
+      "PackagePath": "buildTransitive\\TaskManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
